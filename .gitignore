@@ -1,8 +1,14 @@
 node_modules/
-.DS_Store
+dist/
+build/
 *.log
 .env
 .env.local
-build/
-dist/
-# 123
+*.swp
+*.swo
+.DS_Store
+.vscode
+.idea
+*.sqlite
+*.db
+cosave.db
